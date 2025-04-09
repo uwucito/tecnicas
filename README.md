@@ -1,0 +1,2 @@
+# tecnicas
+tareas de optica
