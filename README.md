@@ -1,2 +1,2 @@
 # tecnicas
-tareas de optica
+tareas de tecnicas computacionales semestre 25-1
